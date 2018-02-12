@@ -2,7 +2,7 @@ package step_definitions;
 
 import static org.testng.Assert.assertEquals;
 
-public class login_essentials_wb_steps {
+public class login_Essent_wb_steps {
     @cucumber.api.java.en.Given("^Login using a valid username and password$")
     public void loginUsingAValidUsernameAndPassword() throws Throwable {
         // Write code here that turns the phrase above into concrete actions
